@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.c
+d:\程式練習\c 練習\105360044_林煜書\6.11(b)\source\main.c(25): warning C4018: '<': signed/unsigned 不相符
+  homework.vcxproj -> D:\程式練習\C 練習\105360044_林煜書\6.11(b)\homework\homework\..\..\temp\debug\homework.exe
+  homework.vcxproj -> ..\..\temp\debug\homework.pdb (Partial PDB)
